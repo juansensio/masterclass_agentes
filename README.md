@@ -2,6 +2,22 @@
 
 Este repositorio contiene el código que acompaña a la masterclass de creación de agentes con Python.
 
+- [01 - Introducción](./01_intro.ipynb): Implementa un chatbot básico.
+
+## ¿Quieres aprender más?
+
+- Tutoriales GRATIS en mi blog (https://www.juansensio.com/blog) y Youtube (https://www.youtube.com/@juansensio)
+- Curso online: El Curso de IA (https://www.elcursodeia.com/)
+    -   Introducción a la Computación con Python (GRATIS)
+    -   Análisis de Datos con Python (GRATIS)
+    -   Machine Learning con Scikit-Learn
+    -   Deep Learning con Pytorch
+    -   Y mucho más...
+- Libro: Introducción a la Inteligencia Artificial con Python (https://savvily.es/libros/introduccion-a-la-inteligencia-artificial-con-python/)
+- Únete a la comunidad de Discord (https://discord.gg/aTeEKXzKbs) 
+- Sígueme en redes sociales (https://x.com/juansensio; https://linkedin.com/in/juanbpedro)
+
+
 ## Requisitos
 
 Instala `uv` para tu sistema operativo siguiendo las instrucciones en https://docs.astral.sh/uv/getting-started/installation/.
