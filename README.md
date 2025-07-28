@@ -3,7 +3,10 @@
 Este repositorio contiene el código que acompaña a la masterclass de creación de agentes con Python.
 
 - [01 - Introducción](./01_intro.ipynb): Implementa un chatbot básico.
-- [02 - Herramientas](./02_herramientas.ipynb): Mejoramos el chatbot con el uso de herramientas.
+- [02 - Herramientas](./02_herramientas.ipynb): Mejoramos el chatbot con el uso de herramientas para convertirlo en un agente.
+- [03 - Memoria](./03_memoria.ipynb): Implementamos la memoria en el agente para que recuerde conversaciones pasadas.
+- [04 - HIL](./04_hil.ipynb): Implementamos *human-in-the-loop* en el agente para que pueda pedir inputs extra al usuario durante la conversación.
+- [05 - Agente de investigación](./05_agente.ipynb): Aplicamos todo lo aprendido en el desarrollo de un agente de búsqueda para la validación de ideas de negocio.
 
 ## ¿Quieres aprender más?
 
